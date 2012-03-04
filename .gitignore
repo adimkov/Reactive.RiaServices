@@ -22,7 +22,7 @@ Thumbs.db
 *.orig
 [Bb]in/
 [Dd]ebug*/
-ClietBin
+ClientBin*/
 *.lib
 *.sbr
 obj/
